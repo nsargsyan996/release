@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/nsargsyan996/release/compare/v1.0.1...v1.0.2) (2022-06-23)
+
+
+### Bug Fixes
+
+* spaces in the component ([#1](https://github.com/nsargsyan996/release/issues/1)) ([f4b16ff](https://github.com/nsargsyan996/release/commit/f4b16ff2fc8d6344dbafe017b44a73c9086a0698))
+
 ## [1.0.1](https://github.com/nsargsyan996/release/compare/v1.0.0...v1.0.1) (2022-06-23)
 
 
