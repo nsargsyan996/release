@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/nsargsyan996/release/compare/v1.0.2...v1.1.0) (2022-06-23)
+
+
+### Features
+
+* release new feature ([fe72443](https://github.com/nsargsyan996/release/commit/fe72443db2d6109bcdb7469c9b7747c28fc4205c))
+
 ## [1.0.2](https://github.com/nsargsyan996/release/compare/v1.0.1...v1.0.2) (2022-06-23)
 
 
