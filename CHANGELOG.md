@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/nsargsyan996/release/compare/v1.0.0...v1.0.1) (2022-06-23)
+
+
+### Bug Fixes
+
+* ui bug ([9a7db20](https://github.com/nsargsyan996/release/commit/9a7db2039ef779d05d1e53ce519f89673268e953))
+
 # 1.0.0 (2022-06-23)
 
 
