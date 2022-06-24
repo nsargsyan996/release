@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/nsargsyan996/release/compare/v2.0.0...v2.1.0) (2022-06-24)
+
+
+### Bug Fixes
+
+* **React Version:** version change ([2180d2d](https://github.com/nsargsyan996/release/commit/2180d2de8ecd1ab132a3414b2dec631a5eeafd22))
+
+
+### Features
+
+* new feature ([7fcabe4](https://github.com/nsargsyan996/release/commit/7fcabe48ec4166357b102603fafb5dce4548d190))
+
 # [2.0.0](https://github.com/nsargsyan996/release/compare/v1.1.2...v2.0.0) (2022-06-24)
 
 
