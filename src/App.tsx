@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
 
-      <p>major update</p>
+      <p>major update: React</p>
     </div>
   );
 }
