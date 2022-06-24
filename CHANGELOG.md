@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/nsargsyan996/release/compare/v1.1.1...v1.1.2) (2022-06-24)
+
+
+### Performance Improvements
+
+* **react-version-update:** Upgrade React to 18BREAKING CHANGE: Upgrade React to 18 ([ebc388c](https://github.com/nsargsyan996/release/commit/ebc388c44b3325da580138dd9490a2eb30d5eeaf))
+
 ## [1.1.1](https://github.com/nsargsyan996/release/compare/v1.1.0...v1.1.1) (2022-06-24)
 
 
