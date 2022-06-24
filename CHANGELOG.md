@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/nsargsyan996/release/compare/v1.1.2...v2.0.0) (2022-06-24)
+
+
+### Build System
+
+* **react-update:** updated to version 18 ([1e79641](https://github.com/nsargsyan996/release/commit/1e79641b1c9e09f8b97031018e5163ec7856d600))
+
+
+### BREAKING CHANGES
+
+* **react-update:** version update
+* **react-update:** version update
+
 ## [1.1.2](https://github.com/nsargsyan996/release/compare/v1.1.1...v1.1.2) (2022-06-24)
 
 
