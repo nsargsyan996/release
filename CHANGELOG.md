@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nsargsyan996/release/compare/v1.1.0...v1.1.1) (2022-06-24)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([28b821c](https://github.com/nsargsyan996/release/commit/28b821c7b6f13bef34d1a6191467970934e77c04))
+
 # [1.1.0](https://github.com/nsargsyan996/release/compare/v1.0.2...v1.1.0) (2022-06-23)
 
 
