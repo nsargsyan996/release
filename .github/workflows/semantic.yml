@@ -1,8 +1,5 @@
 titleAndCommits: true
-allowMergeCommits: false
-scopes:
-  - deps
-  - deps-dev
+allowMergeCommits: true
 types:
   - feat
   - fix
