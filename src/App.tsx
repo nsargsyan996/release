@@ -12,7 +12,7 @@ function App() {
           New Feature
         </p>
 
-        <div>new feat 1</div>
+        <div>new feat 1: bugfix</div>
         <a
           className="App-link"
           href="https://reactjs.org"
