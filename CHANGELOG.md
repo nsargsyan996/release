@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/nsargsyan996/release/compare/v2.1.0...v2.2.0) (2022-07-15)
+
+
+### Features
+
+* **SHOP:** new feature in shop ([#4](https://github.com/nsargsyan996/release/issues/4)) ([0e21050](https://github.com/nsargsyan996/release/commit/0e210507c69778371e5108a335893c575724c3f7))
+
 # [2.1.0](https://github.com/nsargsyan996/release/compare/v2.0.0...v2.1.0) (2022-06-24)
 
 
